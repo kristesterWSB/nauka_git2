@@ -18,3 +18,5 @@ git remote add origin https://www....
 git push origin master
 #### dodajemy kolejnego commita
 git push -u origin master
+### sciągamy dane z git
+git pull
