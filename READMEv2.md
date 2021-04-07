@@ -16,3 +16,5 @@
 ### tworzymy repozytorium na githubie
 git remote add origin https://www....
 git push origin master
+#### dodajemy kolejnego commita
+git push -u origin master
