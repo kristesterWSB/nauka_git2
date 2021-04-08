@@ -20,3 +20,9 @@ git push origin master
 git push -u origin master
 ### sciągamy dane z git
 git pull
+
+### git branch
+git branch
+git checkout -b nazwa_brancha
+git push origin nazwa_brancha
+git checkout master - zmiana na master
